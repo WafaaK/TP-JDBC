@@ -27,3 +27,9 @@ Modifier:
 <img width="392" alt="10" src="https://github.com/WafaaK/TP-JDBC/assets/147450674/0f9427cd-6889-40c2-8b6e-b10119ea35bf">
 
 
+
+# TP service de messagerie
+![11](https://github.com/WafaaK/TP-JDBC/assets/147450674/f820d0d0-33c4-4168-bcaf-de3e4944726e)
+Diagramme de classe du systeme de messagerie.
+
+

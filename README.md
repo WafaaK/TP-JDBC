@@ -33,3 +33,9 @@ Modifier:
 Diagramme de classe du systeme de messagerie.
 
 
+# TP service de gestion des employes
+<img width="671" alt="14" src="https://github.com/WafaaK/TP-JDBC/assets/147450674/514a07d9-70e8-4e29-822b-8a6d30da948b">
+Diagramme de classe de gestion des employes
+
+
+
